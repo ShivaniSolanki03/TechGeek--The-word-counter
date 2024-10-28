@@ -1,0 +1,71 @@
+/* App.css */
+
+/* Basic reset and font styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Dark mode styling */
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
+
+/* Navbar styling for different modes */
+.navbar-dark {
+  background-color: #000 !important;
+}
+
+.navbar-light {
+  background-color: #f8f9fa !important;
+}
+
+/* Text area and input styling for dark mode */
+.dark-mode textarea,
+.dark-mode input[type="text"] {
+  background-color: #1e1e1e;
+  color: white;
+  border: 1px solid #444;
+}
+
+.light-mode textarea,
+.light-mode input[type="text"] {
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+}
+
+/* Button styling */
+button {
+  background-color: #333;
+  color: white;
+  border: 1px solid #555;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+/* Dark mode container styling */
+.dark-mode .container {
+  background-color: #1c1c1c;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* Light mode container styling */
+.light-mode .container {
+  background-color: #f0f0f0;
+  color: black;
+  border-radius: 10px;
+  padding: 20px;
+}
