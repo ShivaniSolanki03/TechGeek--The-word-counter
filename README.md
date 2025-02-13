@@ -17,6 +17,8 @@ Here are some screenshots of the app:
 ![Home Page](assets/homepage.png)
 ![Category View](assets/category.png)
 ![Dark Mode](assets/darkmode.png)
+![Chatbot Feature](assets/chatbot.png)
+![Another Screenshot](assets/about.png)
 
 > **Note:** To add your screenshots, upload them to your repository inside an `assets/` folder and update the paths above accordingly.
 
