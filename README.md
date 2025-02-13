@@ -14,11 +14,20 @@ A **React-based news application** that fetches the latest news using an API. It
 
 Here are some screenshots of the app:
 
-![Home Page](homepage.png)
-![Category View](category.png)
-![Dark Mode](darkmode.png)
-![Chatbot Feature](chatbot.png)
-![Another Screenshot](about.png)
+### 🏠 Home Page
+![Home Page](assets/homepage.png)
+
+### 📂 Category View
+![Category View](assets/category.png)
+
+### 🌙 Dark Mode
+![Dark Mode](assets/darkmode.png)
+
+### 🤖 Chatbot Feature
+![Chatbot Feature](assets/chatbot.png)
+
+### ℹ️ About Page
+![Another Screenshot](assets/about.png)
 
 > **Note:** To add your screenshots, upload them to your repository inside an `assets/` folder and update the paths above accordingly.
 
